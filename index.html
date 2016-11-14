@@ -13,11 +13,14 @@ layout: default
             <!--<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>-->
 
             <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-          <p>
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            <img class="coverArt" src="{{ post.images[1].url }}" />
+          </a>
+          <p class="post-excerpt">
             {{ post.excerpt }}
           </p>
         </li>
-        <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+        <!--<p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
     </div>
     {% endfor %}
   </ul>

@@ -191,7 +191,6 @@
  */
 .page-content {
   padding: $spacing-unit 0;
-  padding-left: $twitter-width;
 
   @media (max-width: 1250px)  {
       padding-left: 0px;
@@ -276,32 +275,35 @@
 
 .background-postBody {
   //max-width: 100%;
-  max-width: 60%;
-  max-height: 75%;
+  max-width: 50%;
+  max-height: 50%;
+  display: inline-block;
   /*width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
   width:         calc(#{$content-width} - (#{$spacing-unit} * 2));*/
   background-color: #E9FFE6;
   margin: auto auto 15px auto;
+  padding: 5px;
   border: 4px black solid;
-
-  @media (max-width: 770px)  {
-      display: inline-block;
-      max-width: 100%;
-  }
 }
 
-.list-bannerPhoto {
-  height: 400px;
-  width: 720px;
+.post-coverArt {
+  height: $content-width/4;
+  width: 50%;
+  display: inline;
+}
+
+.coverArt {
   margin: auto;
+  //margin: 5px auto auto 5px;
+}
+
+.post-excerpt {
+  display: inline;
 }
 
 .bannerPhoto {
-  margin: auto auto auto $twitter-width;
-
-  @media (max-width: 770px)  {
-      margin: auto;
-  }
+  max-width: 100%;
+  margin: auto;
 }
 
 .post-content {
