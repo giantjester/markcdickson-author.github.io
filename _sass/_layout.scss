@@ -9,6 +9,8 @@
     //background-size: 100% 100%;
     background: url("http://www.mcdickson.com/assets/headerImage.svg") 100% 100%;
 
+    background-repeat: no-repeat;
+
     @media (max-width: 1050px)  {
       background: url("http://www.mcdickson.com/assets/headerImage.svg") 1050px 100%;
     }
