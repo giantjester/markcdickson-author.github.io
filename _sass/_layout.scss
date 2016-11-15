@@ -129,12 +129,12 @@
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 
-    background: url("http://localhost:4000/assets/footerImage.svg");
+    background: url("http://mcdickson.com/assets/footerImage.svg");
     background-repeat: repeat-x;
     background-size: contain;
 
     @media (max-width: 750px)  {
-        background: url("http://localhost:4000/assets/footerImage.png");
+        background: url("http://mcdickson.com/assets/footerImage.png");
         background-size: 100% 100%;
     }
 
