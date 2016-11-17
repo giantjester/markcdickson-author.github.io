@@ -12,13 +12,19 @@ layout: default
         <li>
             <!--<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>-->
 
-            <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-          <a href="{{ post.url | prepend: site.baseurl }}">
-            <img class="coverArt" src="{{ post.images[1].url }}" />
-          </a>
-          <p class="post-excerpt">
-            {{ post.excerpt }}
-          </p>
+          <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+
+          <div class="row">
+            <div class="col-sm-4">
+              <a href="{{ post.url | prepend: site.baseurl }}">
+                <img class="coverArt" src="{{ post.images[1].url }}" />
+              </a>
+            </div>
+            <div class="col-sm-8">
+              <p>
+                {{ post.excerpt }}
+              </p>
+          </div>
         </li>
         <!--<p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
     </div>
