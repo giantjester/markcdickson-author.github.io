@@ -19,7 +19,7 @@ images:
 
 <img class="bannerPhoto" src="{{ site.url }}/assets/bannerPhoto_heyItsClaire.png" />
 
-*“Hey. It’s Claire. Yeah, I’m still coming.”*
+“Hey. It’s Claire. Yeah, I’m still coming.”
 
 She kept up the pace, even though her feet were starting to ache; there was something cathartic about walking barefoot in the rain. The night had become so out of hand so quickly that it was a relief to feel some kind of solid connection to the ground beneath her feet.
 
