@@ -8,11 +8,11 @@ images:
 
   - url: /assets/bannerPhoto_imStillHere.png
     alt: bannerPhoto_imStillHere
-    title: Banner Photo Hey Its Claire
+    title: Banner Photo
 
   - url: /assets/coverArt_imStillHere.png
     alt: coverArt_imStillHere
-    title: Cover Art Hey Its Claire
+    title: Cover Art
 ---
 
 <img class="bannerPhoto" src="{{ site.url }}/assets/bannerPhoto_imStillHere.png" />
