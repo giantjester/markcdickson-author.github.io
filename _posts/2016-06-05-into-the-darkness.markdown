@@ -3,11 +3,7 @@ layout: post
 title:  Into the Darkness
 date:   2016-06-05 00:00:00 0000
 categories: fiction
-excerpt: "Was there still time left?
-
-It was closer to him now
-
-He hadn’t made it"
+excerpt: "Was there still time left?<br/>It was closer to him now<br/>He hadn’t made it"
 images:
 
   - url: /assets/bannerPhoto_intoTheDarkness.png

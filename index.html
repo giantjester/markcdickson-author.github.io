@@ -8,27 +8,22 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
     <!--Define Post Format -->
-    <div class="background-postBody">
-        <li>
-            <!--<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>-->
+    <li class="col-sm-4">
+      <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
 
-          <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-
-          <div class="row">
-            <div class="col-sm-4">
-              <a href="{{ post.url | prepend: site.baseurl }}">
-                <img class="post-coverArt" src="{{ post.images[1].url }}" />
-              </a>
-            </div>
-            <div class="col-sm-8">
-              <p>
-                {{ post.excerpt }}
-              </p>
-            </div>
-          </div>
-        </li>
+      <div class="row">
+        <div class="col-sm-4">
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            <img class="post-coverArt" src="{{ post.images[1].url }}" />
+          </a>
+        </div>
+        <div class="col-sm-8">
+          <p>
+            {{ post.excerpt }}
+          </p>
+        </div>
       </div>
-        <!--<p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
+    </li>
     {% endfor %}
   </ul>
 

@@ -3,9 +3,7 @@ layout: post
 title:  “Hey. It’s Claire”
 date:   2016-05-31 00:00:00 0000
 categories: fiction
-excerpt: "''Yeah. He’ll be there,'' Claire confirmed. 'He’s back at home and then he’ll get a cab as soon as he’s done.''
-
-She bristled at the lie; there were far too many questions that she didn’t want to deal with right now."
+excerpt: "''Yeah. He’ll be there,'' Claire confirmed. 'He’s back at home and then he’ll get a cab as soon as he’s done.''<br /><br />She bristled at the lie; there were far too many questions that she didn’t want to deal with right now."
 images:
 
   - url: /assets/bannerPhoto_heyItsClaire.png
