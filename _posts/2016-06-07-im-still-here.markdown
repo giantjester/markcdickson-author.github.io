@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  I'm Still Here (A New Beginning)
+title:  I'm Still Here<br/>(A New Beginning)
 date:   2016-06-07 00:00:00 0000
 categories: fiction
 excerpt: "It all began with a sigh.<br/><br/>Years from now, when Quinn would look back on this moment, she would remember that sound of true resignation."
