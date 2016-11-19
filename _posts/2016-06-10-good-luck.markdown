@@ -1,0 +1,60 @@
+---
+layout: post
+title:  Good Luck
+date:   2016-06-10 00:00:00 0000
+categories: fiction
+excerpt: "You never have as much time as you think. If it’s not “I’ll do it later” then it’s “I’ll do it tomorrow.” Before you find yourself suddenly out of time, do it right now."
+images:
+
+  - url: /assets/bannerPhoto_goodLuck.png
+    alt: bannerPhoto_goodLuck
+    title: Banner Photo
+
+  - url: /assets/coverArt_goodLuck.png
+    alt: coverArt_goodLuck
+    title: Cover Art
+---
+
+<img class="bannerPhoto" src="{{ site.url }}/assets/bannerPhoto_goodLuck.png" />
+
+Whomever is reading this,
+
+You never have as much time as you think. If it’s not “I’ll do it later” then it’s “I’ll do it tomorrow.” Before you find yourself suddenly out of time, do it right now.
+
+Recently, I found myself in an old dilapidated charity shop behind this little bakery in my town. After having exhausted my daily plan of visiting the café in said bakery, I decided to browse around this shop that I hadn’t seen before. I’d circled these streets before, so it should have been a big red flag, but I was desperate for someone to talk to, something to do.
+
+For the rest of this story to make sense, you need to know a little something about me. I was also close to my mother growing up; even with the detachment that comes with growing up and moving away, we always retained that close bond. With an unparalleled vibrancy and an unbridled willingness to teach, she’d been someone that I’d always been able to look up to. I won’t burden you with the knowledge of how she passed away, but all you need to know is that it was sudden. It was too soon.
+
+With that context, pottering about this little charity shop, I stumbled upon this vintage, as the kids call it, camera. I could see the end of the lens poking through a pile of other discarded objects and instantly recognised it; I’d had one of these when I was younger. Giddy at the chance to relive some of those passions that had fallen by the wayside, I immediately took it to the counter and left the shop. This was going to be my way to reconnect with the life that passed by so quickly.
+
+As I reached the opposite side of the street, I turned around to capture this moment for posterity; after all, it was a new beginning for me. However, as I watched the undeveloped photo start to solidify, it showed me something that immediately flung me right back in front of the TV, peering up at a crackling episode of The Twilight Zone: this wasn’t a photo of the shop that I was looking at. You could still see the characteristic hills behind it, but this was unmistakeably a different shop.
+
+I’ve always thought of myself as a competent man. I’m good in a crisis and can handle pretty much anything that’s thrown at me; this absolutely threw me. Panicking, I began snapping pictures of everything in sight. I ran up the road and snapped a picture of the old collapsing pub. I ran to the new Starbucks on the corner and snapped a picture. All of them were wrong: the pub in the photo still had its original sign and the Starbucks didn’t even exist. In the place of the latter, all I had was a far-too-close zoom of a cow’s face.
+
+I flopped down on the nearest bench. I held the camera in my hands and just stared down at it. It’s surprising how, in a crisis like this, your mind is fully able to accept the inescapable truths. Despite myself, I couldn’t help but notice that all of these photos were out-of-date, but were recognisable. As faint as the memories might be, I could recognise the town like this. I’d been around when some local boys had knocked the pub’s sign off; they’d been warned about it before, but had carried on anyway.
+
+I immediately knew what I had to do with this camera. I jumped on the next bus I could find heading east and sat restlessly next to this smartly dressed young woman. I had to keep reminding myself to breathe as the bus reached the end of its course. I must have been giving off a scent of desperation because, as everything began to overwhelm me, the kind woman gently placed a hand on my knee. Murmuring a brief thank you when I stood, I walked past the driver and climbed off the bus. It had been 15 years since I’d last seen it, but you never really forget what home looks like.
+
+I knocked confidently on the front door; despite how much time had passed, this still felt like my house. As the door swung open, I half expected to see my mother standing there in the door, grin spreading across her face as she recognised me.
+
+Unsurprisingly, it was the current owner of the house, wrapped in a flour-dusted apron. I won’t bore you with the specifics of the conversation, but I convinced this young man that I wasn’t here to murder and plunder his home; he knew my mother before her passing and had almost immediately recognised me.
+
+I told him that I wanted to get some final memories of the house before I moved away. It had been something that I’d always wanted to do when my mother still lived there, but had simply never found the time for.
+
+Convinced, he left me to my own devices and I strode into the kitchen, knowing that this was where my mother spent most of her time. You might read that sentence and roll your eyes at the antiquated old man spilling his misogynistic views, but it was simply what she loved to do. Baking was her passion and she loved to share it with anyone and everyone who would let her.
+
+I looked around the kitchen, trying to isolate the best spot. Did she spend the most time at the cooker? Would a wider shot of the kitchen be more appropriate? My childhood had become such a blur in my mind, that I wasn’t even sure that I could conjure her face to mind anymore. There was no chance that I could remember where in the kitchen she liked to be. Deciding upon the centre of the kitchen, I pointed the camera and clicked.
+
+The next five minutes were the longest five minutes of my life. Longer than the pause after asking my wife to marry me; longer than those few seconds when my first son struggled to catch his breath.
+
+As I looked at the picture start to emerge, I saw the shape of a young child start to emerge. I saw myself sat at our big wooden table with a large mixing bowl, dipping my fingers into it and darting a look off to the side. It was a moment of pure, unadulterated happiness, something that only children can truly experience. In the very corner of the photo, I could see a glimpse of a blue apron. A blue apron. I knew that blue apron. I angled myself slightly to the right and pushed the capture button.
+
+A click. Then nothing. I waited for a few seconds. I pointed the camera and clicked again. Nothing. Had something in the camera jammed? Turning the camera around, I unclipped the front and took out the film sleeve. As soon as I held it, I knew what was wrong: the film was finished.
+
+I sunk to the floor and bawled like I hadn’t bawled in years. The last glimpse that I was ever going to have of my mother was of a little corner of her apron. An imperfect, incomplete piece of her clothing.
+
+I haven’t been able to fully get over what that day did to me. I look at the photo that I was able to capture and, in the six months since, have begun to realise that it did far more for me than a photo of her ever would. It’s not the image of the people that we miss; it’s the way that they make us feel. You could have hundreds of stock, posed photos of yourself and your family at the London Eye or in front of Big Ben, but, without that truly candid photo of you all sharing a joke, a laugh or a hug, you lose sight of what really matters. Far too much focus is given to the promotion of the moment in the moment; give more thought to the promotion of the people in those moments. You’ll never know when it’ll be too late to do that.
+
+Take this camera. I hope it serves you far better than it serves me.
+
+Good luck.
