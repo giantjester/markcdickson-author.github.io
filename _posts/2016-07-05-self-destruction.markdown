@@ -3,7 +3,7 @@ layout: post
 title:  Self Destruction
 date:   2016-07-05 00:00:00 0000
 categories: fiction
-excerpt: "''Maybe it would help if I explained to you my origin story,'' he gushed, taking a step towards Cerise. Taking a deep breath, he began."
+excerpt: "Squatting and then immediately extending her legs, June threw herself and the body behind her into the wall. She heard a gasp for air behind her and, staggering forward, looked around for something to grab."
 images:
 
   - url: /assets/bannerPhoto_selfDestruction.png
