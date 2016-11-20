@@ -17,6 +17,10 @@ images:
 
 <img class="bannerPhoto" src="{{ site.url }}/assets/bannerPhoto_lifeIsAPineapple.png" />
 
+<ul class="pager">
+  <li class="previous"><a href="http://localhost:4000/fiction/2016/07/26/life-is-a-pineapple-chapter-3.html">Previous Chapter</a></li>
+</ul>
+
 Cerise was still thinking, but not in any way that truly mattered. She became aware that she was being surrounded by the notion of emptiness, but still felt completely at home. There was a physicality and a familiarity to her location that she couldn’t quite place, but knew that it was somewhere that she felt safe. The void around her began to swim and dissipate and she found herself lamenting its passing; if she wasn’t anywhere, then nothing could get through to her. That security, that blissful ignorance, was gone.
 
 As the world solidified, Cerise became aware that her head was pressed up against something hard and unforgiving, her neck bent at an uncomfortable angle. Blinking through the blur that threatened to overcome her vision, she found herself with a geometric view of the room that she’d just left, a strange force holding her in the upper corner. Everything was exactly as she remembered. Both herself and The Spiraliser were noticeably absent, but the chair still sat in the centre of the room, primed for a user and looking strangely forlorn.
@@ -74,3 +78,7 @@ Returning her gaze to the man in front of her, Cerise suddenly noticed his unrel
 This was when she noticed the sheer amount of light streaming into the room. One of the windows that had been boarded up last she looked, now sat exposed, the planks lying split and scattered all over the floor below it. Someone had either taken an axe to it or possessed a inordinate amount of lower-body strength.
 
 With an uncharacteristic confidence, Cerise strode over to the window and began to climb out onto the fire escape. Taking one last look behind her at the man that had, willingly or not, irrevocably changed her life, Cerise felt a strange sadness overcome her. She couldn’t help but observe that, whoever he was, it was clear that he bled and died like anybody else.
+
+<ul class="pager">
+  <li class="previous"><a href="http://localhost:4000/fiction/2016/07/26/life-is-a-pineapple-chapter-3.html">Previous Chapter</a></li>
+</ul>

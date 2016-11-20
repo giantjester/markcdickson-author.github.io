@@ -17,6 +17,11 @@ images:
 
 <img class="bannerPhoto" src="{{ site.url }}/assets/bannerPhoto_lifeIsAPineapple.png" />
 
+<ul class="pager">
+  <li class="previous"><a href="http://localhost:4000/fiction/2016/07/09/life-is-a-pineapple-chapter-2.html">Previous Chapter</a></li>
+  <li class="next"><a href="http://localhost:4000/fiction/2016/08/02/life-is-a-pineapple-chapter-4.html">Next Chapter</a></li>
+</ul>
+
 Cerise hesitated for a moment before she spoke, thinking through her choice of words.
 
 “There’s still one thing that I need to know from you,” Cerise inquired. “How did I end up here? The last thing that I remember is walking down that side street and I saw a…” She paused. What had she seen?
@@ -100,3 +105,8 @@ As she lay there on the floor, winded from her efforts, The Spiraliser stood tow
 “I’ll be back soon,” he sighed. “I hope you’ll be more grateful then.”
 
 Then Cerise forgot how to think for a while.
+
+<ul class="pager">
+  <li class="previous"><a href="http://localhost:4000/fiction/2016/07/09/life-is-a-pineapple-chapter-2.html">Previous Chapter</a></li>
+  <li class="next"><a href="http://localhost:4000/fiction/2016/08/02/life-is-a-pineapple-chapter-4.html">Next Chapter</a></li>
+</ul>

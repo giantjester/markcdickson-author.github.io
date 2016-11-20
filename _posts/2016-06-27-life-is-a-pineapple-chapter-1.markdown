@@ -17,6 +17,10 @@ images:
 
 <img class="bannerPhoto" src="{{ site.url }}/assets/bannerPhoto_lifeIsAPineapple.png" />
 
+<ul class="pager">
+  <li class="next"><a href="http://mcdickson.com/fiction/2016/07/09/life-is-a-pineapple-chapter-2.html">Next Chapter</a></li>
+</ul>
+
 Pineapples. Cerise couldn’t stop thinking about pineapples and that time that she’d bought a bunch of them for really cheap. Why had she ever thought that was a good idea? Nobody needs fifteen pineapples.
 
 The world spun into existence around her as she slowly opened her eyes. Lifting her head from her chest, she felt the drool dripping down her chin. Had she fallen asleep at her desk at work again? Raising her hand to wipe it away, Cerise immediately realised how heavy her arms felt. Was she going to have to wait until the circulation returned to them before she could tidy herself up?
@@ -60,3 +64,7 @@ The cloaked man stood up to the full extent of his height and it was only then t
 Receiving no response, his eyes raised to meet hers and she found herself retreating further into her chair. He raised his eyebrows and tilted his head to the side as he looked down at her, a wan smile creeping across his face.
 
 “I’m the almighty fucking Spiraliser,” he enunciated. “And you owe me your precious little life.”
+
+<ul class="pager">
+  <li class="next"><a href="http://mcdickson.com/fiction/2016/07/09/life-is-a-pineapple-chapter-2.html">Next Chapter</a></li>
+</ul>

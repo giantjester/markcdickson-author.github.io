@@ -17,6 +17,11 @@ images:
 
 <img class="bannerPhoto" src="{{ site.url }}/assets/bannerPhoto_lifeIsAPineapple.png" />
 
+<ul class="pager">
+  <li class="previous"><a href="http://mcdickson.com/fiction/2016/06/27/life-is-a-pineapple-chapter-1.html">Previous Chapter</a></li>
+  <li class="next"><a href="http://mcdickson.com/fiction/2016/07/26/life-is-a-pineapple-chapter-3.html">Next Chapter</a></li>
+</ul>
+
 The absurdity of the situation struck her directly in the face.
 
 “Wait, what?” Cerise chuckled, surprising even herself. “You’re called the Spirali…?” She burst into manic laughter that kept growing in waves as she relived what he’d just said. Gasping for breath, she quickly heard herself with a pressing question.
@@ -80,3 +85,8 @@ All she needed was more time.
 He looked at her expectantly.
 
 “Do you understand everything now?” he asked.
+
+<ul class="pager">
+  <li class="previous"><a href="http://mcdickson.com/fiction/2016/06/27/life-is-a-pineapple-chapter-1.html">Previous Chapter</a></li>
+  <li class="next"><a href="http://mcdickson.com/fiction/2016/07/26/life-is-a-pineapple-chapter-3.html">Next Chapter</a></li>
+</ul>
